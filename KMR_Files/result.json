@@ -1,0 +1,62 @@
+[
+  {
+    "ID": "1",
+    "StkSymbol": "AAPL"
+  },
+  {
+    "ID": "2",
+    "StkSymbol": "BAC"
+  },
+  {
+    "ID": "3",
+    "StkSymbol": "FB"
+  },
+  {
+    "ID": "4",
+    "StkSymbol": "IBM"
+  },
+  {
+    "ID": "5",
+    "StkSymbol": "SPY"
+  },
+  {
+    "ID": "6",
+    "StkSymbol": "XOM"
+  },
+  {
+    "ID": "7",
+    "StkSymbol": "VXN"
+  },
+  {
+    "ID": "8",
+    "StkSymbol": "VIX"
+  },
+  {
+    "ID": "9",
+    "StkSymbol": "HAL"
+  },
+  {
+    "ID": "10",
+    "StkSymbol": "SPX"
+  },
+  {
+    "ID": "11",
+    "StkSymbol": ".DJI"
+  },
+  {
+    "ID": "12",
+    "StkSymbol": ".INX"
+  },
+  {
+    "ID": "13",
+    "StkSymbol": ".IXIC"
+  },
+  {
+    "ID": "14",
+    "StkSymbol": "SQ"
+  },
+  {
+    "ID": "15",
+    "StkSymbol": "SOX"
+  }
+]
